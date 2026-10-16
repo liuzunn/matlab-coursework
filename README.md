@@ -37,3 +37,9 @@
 - MATLAB R2020a 及以上
 - `exp10_4.m`、`exp10_5.m` 需要 **Symbolic Math Toolbox**
 - 其余脚本只用到基础 MATLAB
+
+---
+
+## 许可
+
+[MIT](./LICENSE) © 2025 liuzunn
